@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@ssh://amax@172.17.169.76:22/home/amax/anaconda2/envs/xsx_pyg/bin/python" />
+      </list>
+    </list>
+  </component>
+</project>

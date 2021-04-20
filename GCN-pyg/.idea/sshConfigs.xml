@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="172.17.175.30" id="f6b72722-4305-496f-9cd1-170bbe82081a" port="22" customName="GPU" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="172.17.175.30" id="538f8ab5-f024-4305-a287-60f94ee75ef9" port="22" customName="GPU" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="172.17.175.30" id="16876840-b347-43d1-b629-53b015e30eca" port="22" customName="GPU" nameFormat="CUSTOM" />
+    </configs>
+  </component>
+</project>
